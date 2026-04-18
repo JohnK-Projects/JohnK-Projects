@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**JohnK-Projects/JohnK-Projects** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👨‍💻 About Me
+I'm John Kirkham. I am a technologically driven, people friendly, student of coding. I love hiking, sports, and spending time with friends and family. I'm a husband and father to one precious little girl.
 
-Here are some ideas to get you started:
+🧠 What I Can Do
+I can code in C++ and HTML.
+Additionally, I'm familiar with, Javascript, and Python.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 What I'm Learning
+I'm currently learning C and furthering my understanding of Python.
+
+⚡ Fun Fact
+I enjoy rappelling/canyoneering, so if you want any recommendations for canyons in Utah, don't be afraid to ask!
